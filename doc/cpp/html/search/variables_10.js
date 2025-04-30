@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['term_5ftype_0',['term_type',['../structx1_1_1xlt__user__terminal__info__t.html#ab6273eeccd54ac94980032c89181dcd5',1,'x1::xlt_user_terminal_info_t']]],
+  ['ticker_5fstatus_1',['ticker_status',['../structx1_1_1xlt__market__data__t.html#a771d714573fa586901ee77c302fd76ff',1,'x1::xlt_market_data_t']]],
+  ['total_5fask_5fqty_2',['total_ask_qty',['../structx1_1_1xlt__market__data__stock__ex__data__t.html#ad1e610580ff30bea38d1595dec97761a',1,'x1::xlt_market_data_stock_ex_data_t::total_ask_qty()'],['../structx1_1_1xlt__market__data__bond__ex__data__t.html#a881fc9f7730b25ac7101102c39366873',1,'x1::xlt_market_data_bond_ex_data_t::total_ask_qty()']]],
+  ['total_5fbid_5fqty_3',['total_bid_qty',['../structx1_1_1xlt__market__data__stock__ex__data__t.html#a28311727257d0f3c295be9f286835d0f',1,'x1::xlt_market_data_stock_ex_data_t::total_bid_qty()'],['../structx1_1_1xlt__market__data__bond__ex__data__t.html#a24a756dd534f96033739c2a55508f283',1,'x1::xlt_market_data_bond_ex_data_t::total_bid_qty()']]],
+  ['total_5fbuy_5fcount_4',['total_buy_count',['../structx1_1_1xlt__market__data__stock__ex__data__t.html#a22946b418943ee03c92f823b7a2859ad',1,'x1::xlt_market_data_stock_ex_data_t::total_buy_count()'],['../structx1_1_1xlt__market__data__bond__ex__data__t.html#acf8ab25138a23367808733cf6b7159e0',1,'x1::xlt_market_data_bond_ex_data_t::total_buy_count()']]],
+  ['total_5flong_5fposition_5',['total_long_position',['../structx1_1_1xlt__market__data__t.html#afd1448745b2408d3df3763ebee9785a2',1,'x1::xlt_market_data_t']]],
+  ['total_5fquantity_6',['total_quantity',['../structx1_1_1xlt__position__info__t.html#a082f8a9e32185459e9f3ea3d91d8703d',1,'x1::xlt_position_info_t']]],
+  ['total_5fsell_5fcount_7',['total_sell_count',['../structx1_1_1xlt__market__data__stock__ex__data__t.html#ab0f7cef387016439f0a68518bc209dcd',1,'x1::xlt_market_data_stock_ex_data_t::total_sell_count()'],['../structx1_1_1xlt__market__data__bond__ex__data__t.html#a323d5622399fc417a975e2e95b1553c9',1,'x1::xlt_market_data_bond_ex_data_t::total_sell_count()']]],
+  ['total_5fwarrant_5fexec_5fqty_8',['total_warrant_exec_qty',['../structx1_1_1xlt__market__data__stock__ex__data__t.html#a0652339b457ce3af6707ac2c20859570',1,'x1::xlt_market_data_stock_ex_data_t']]],
+  ['trade_9',['trade',['../unionx1_1_1xlt__tick__by__tick__data__t.html#aa01814f27acf31348d5557978ff68f66',1,'x1::xlt_tick_by_tick_data_t']]],
+  ['trade_5fflag_10',['trade_flag',['../structx1_1_1xlt__tick__by__tick__trade__t.html#ae440001525a9fc115c2c0b7873a9ecd5',1,'x1::xlt_tick_by_tick_trade_t']]],
+  ['traded_5famount_11',['traded_amount',['../structx1_1_1xlt__order__info__t.html#a257b0d5a871d9d864e44e71f59db01d7',1,'x1::xlt_order_info_t']]],
+  ['traded_5fcount_12',['traded_count',['../structx1_1_1xlt__order__info__t.html#a6af23c2b785a4a81091a26275c602c13',1,'x1::xlt_order_info_t']]],
+  ['traded_5ffee_13',['traded_fee',['../structx1_1_1xlt__order__info__t.html#a364159a5ef09d113d2be17e5d1cf9c41',1,'x1::xlt_order_info_t']]],
+  ['traded_5ffix_5ffee_14',['traded_fix_fee',['../structx1_1_1xlt__order__info__t.html#a364ea07dba112a8b8d8f5a7f3a59f700',1,'x1::xlt_order_info_t']]],
+  ['traded_5fqty_15',['traded_qty',['../structx1_1_1xlt__tick__by__tick__entrust__t.html#a7e553e238fdad62811fa21f1d27096a3',1,'x1::xlt_tick_by_tick_entrust_t']]],
+  ['traded_5fquantity_16',['traded_quantity',['../structx1_1_1xlt__order__info__t.html#ad04a4c0afd05711007f427c7c8c06a1c',1,'x1::xlt_order_info_t']]],
+  ['traded_5ftime_17',['traded_time',['../structx1_1_1xlt__order__info__t.html#a23646d36da8870627758235f6d70d8eb',1,'x1::xlt_order_info_t']]],
+  ['trades_5fcount_18',['trades_count',['../structx1_1_1xlt__market__data__t.html#a28dd775040352ec856ea15721e401995',1,'x1::xlt_market_data_t']]],
+  ['turnover_19',['turnover',['../structx1_1_1xlt__market__data__t.html#af838bc4fc152063451a3aeb3a31c4c11',1,'x1::xlt_market_data_t']]],
+  ['type_20',['type',['../structx1_1_1xlt__tick__by__tick__t.html#a4496c6e72c77d5b3a551052aa9e86c6f',1,'x1::xlt_tick_by_tick_t']]]
+];

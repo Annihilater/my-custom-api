@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['last_5fenquiry_5ftime_0',['last_enquiry_time',['../structx1_1_1xlt__market__data__option__ex__data__t.html#abb4e00a2140320701ff4e51bb0cb9dfa',1,'x1::xlt_market_data_option_ex_data_t']]],
+  ['last_5fprice_1',['last_price',['../structx1_1_1xlt__market__data__t.html#aca2e9d1779ecaea7f7106c13457d79a8',1,'x1::xlt_market_data_t']]],
+  ['leaves_5fquantity_2',['leaves_quantity',['../structx1_1_1xlt__order__response__t.html#a43e14c4be10c9e8aed9aac5dca028aee',1,'x1::xlt_order_response_t::leaves_quantity()'],['../structx1_1_1xlt__trade__report__t.html#a9c73afd4fdaed8a1d6338a54650d4f2e',1,'x1::xlt_trade_report_t::leaves_quantity()'],['../structx1_1_1xlt__order__info__t.html#abaf909da1f02030ac35db23630eb729e',1,'x1::xlt_order_info_t::leaves_quantity()']]],
+  ['level1_5fonly_3',['level1_only',['../structx1_1_1xlt__quote__config__t.html#aa22cfecd287fed7be597e3ef7f91e74e',1,'x1::xlt_quote_config_t']]],
+  ['limit_5fprice_4',['LIMIT_PRICE',['../namespacex1.html#aa0a93587abf9cd108cb6bd17db940f06a400d6adc561ded16328da462a6f8ca38',1,'x1']]],
+  ['local_5faddress_5',['local_address',['../structx1_1_1xlt__trade__config__t.html#a986dcc536407194708db31ef31629bb9',1,'x1::xlt_trade_config_t::local_address()'],['../structx1_1_1xlt__quote__config__t.html#a44248bb220ee502f75ae5bfc6925976d',1,'x1::xlt_quote_config_t::local_address()']]],
+  ['local_5fip_6',['local_ip',['../structx1_1_1xlt__user__terminal__info__t.html#a679feb9336bac27bfeb780deb54f4bd4',1,'x1::xlt_user_terminal_info_t']]],
+  ['log_5fdebug_7',['LOG_DEBUG',['../namespacex1.html#a54b461162b541bfd62f34cfa899c3076aeded50d942c7c2d37d09ba8241ff017f',1,'x1']]],
+  ['log_5ferror_8',['LOG_ERROR',['../namespacex1.html#a54b461162b541bfd62f34cfa899c3076a4490aa3d29644e716440fada68f54032',1,'x1']]],
+  ['log_5ffatal_9',['LOG_FATAL',['../namespacex1.html#a54b461162b541bfd62f34cfa899c3076ab3a01170f5777f9867632e3e4a04e3a9',1,'x1']]],
+  ['log_5finfo_10',['LOG_INFO',['../namespacex1.html#a54b461162b541bfd62f34cfa899c3076a41abf3cca8cee8cdae01749df7a991c6',1,'x1']]],
+  ['log_5flevel_11',['log_level',['../structx1_1_1xlt__quote__config__t.html#acec857c810637ef557b0d4c23848cff1',1,'x1::xlt_quote_config_t::log_level()'],['../structx1_1_1xlt__trade__config__t.html#ad34e9e67420236c07d3e45d215ad63c2',1,'x1::xlt_trade_config_t::log_level()']]],
+  ['log_5ftrace_12',['LOG_TRACE',['../namespacex1.html#a54b461162b541bfd62f34cfa899c3076a969fae2ecf92dd187c85e11ee37c5a77',1,'x1']]],
+  ['log_5fwarn_13',['LOG_WARN',['../namespacex1.html#a54b461162b541bfd62f34cfa899c3076a803a17d78b6923b90494820a5000d22b',1,'x1']]],
+  ['login_14',['login',['../classx1_1_1TradeApi.html#aa5b4b7eceb680d7f785443be8aee5ef4',1,'x1::TradeApi::login()'],['../classx1_1_1QuoteApi.html#a85f0f7a89e3e0356370e7233434b51d1',1,'x1::QuoteApi::login()']]],
+  ['logout_15',['logout',['../classx1_1_1TradeApi.html#a776bb3885919a65fbb9e06de5b78f204',1,'x1::TradeApi::logout()'],['../classx1_1_1QuoteApi.html#a6fce910a401e365acd4c3cf72b2ccc62',1,'x1::QuoteApi::logout()']]],
+  ['low_5fprice_16',['low_price',['../structx1_1_1xlt__market__data__t.html#aab543c187b1b8f5d827bcd28e057ec2e',1,'x1::xlt_market_data_t']]],
+  ['lower_5flimit_5fprice_17',['lower_limit_price',['../structx1_1_1xlt__static__quote__full__info__t.html#aae0dcc4f723abfc89ce63b80bca1440a',1,'x1::xlt_static_quote_full_info_t::lower_limit_price()'],['../structx1_1_1xlt__market__data__t.html#af05c9f0c26ddc7dd008650899b90d01e',1,'x1::xlt_market_data_t::lower_limit_price()']]]
+];

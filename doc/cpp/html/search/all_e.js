@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['qty_0',['qty',['../structx1_1_1xlt__market__data__t.html#a905586a4d6148b0e26987a9e0ce157a7',1,'x1::xlt_market_data_t::qty()'],['../structx1_1_1xlt__tick__by__tick__entrust__t.html#a42036fcf7af17406ca0a3dbaf4265587',1,'x1::xlt_tick_by_tick_entrust_t::qty()'],['../structx1_1_1xlt__tick__by__tick__trade__t.html#ac0ceb2f2fe1f1416058ac9988682c13c',1,'x1::xlt_tick_by_tick_trade_t::qty()']]],
+  ['qualification_5fclass_1',['qualification_class',['../structx1_1_1xlt__static__quote__full__info__t.html#a3e425e6626ca060c4328916d72686a58',1,'x1::xlt_static_quote_full_info_t']]],
+  ['qualification_5fcommon_2',['QUALIFICATION_COMMON',['../namespacex1.html#ab6719de0e7f0279e7e1fe1e05f8f901dac0292d4b6d3e909f13dee5439361e2d4',1,'x1']]],
+  ['qualification_5forganization_3',['QUALIFICATION_ORGANIZATION',['../namespacex1.html#ab6719de0e7f0279e7e1fe1e05f8f901da4fa8f9ed33425e9660cfd964029373bc',1,'x1']]],
+  ['qualification_5fpublic_4',['QUALIFICATION_PUBLIC',['../namespacex1.html#ab6719de0e7f0279e7e1fe1e05f8f901dadc094f6e69e9bee84afdc17e56a9a9d4',1,'x1']]],
+  ['qualification_5funknown_5',['QUALIFICATION_UNKNOWN',['../namespacex1.html#ab6719de0e7f0279e7e1fe1e05f8f901dab5ae86f3d2d2ed3551f225192d790be6',1,'x1']]],
+  ['qualificationtype_6',['QualificationType',['../namespacex1.html#ab6719de0e7f0279e7e1fe1e05f8f901d',1,'x1']]],
+  ['quantity_7',['quantity',['../structx1_1_1xlt__order__insert__info__t.html#abeaeb59c5ed266be3c4067e236f9aa12',1,'x1::xlt_order_insert_info_t::quantity()'],['../structx1_1_1xlt__trade__report__t.html#a1c54d7828c49a0a70cc194aa4bf3286c',1,'x1::xlt_trade_report_t::quantity()']]],
+  ['quantity_5ft_8',['quantity_t',['../namespacex1.html#a9141c4ef25a23f198d1b68eb049e9c6e',1,'x1']]],
+  ['query_5fassets_9',['query_assets',['../classx1_1_1TradeApi.html#a4f647bfe9d73daaafaa5cd6dddba514d',1,'x1::TradeApi']]],
+  ['query_5forders_10',['query_orders',['../classx1_1_1TradeApi.html#a46d49bbc5132bd9e32230be30da085f0',1,'x1::TradeApi']]],
+  ['query_5fpositions_11',['query_positions',['../classx1_1_1TradeApi.html#adf5cb3c29c8e9089f52b756894727cd9',1,'x1::TradeApi']]],
+  ['query_5fstatic_5fquote_5ffull_5finfo_12',['query_static_quote_full_info',['../classx1_1_1QuoteApi.html#a312af3ae1ba58a28a03e6ec58c93c973',1,'x1::QuoteApi']]],
+  ['query_5funfinished_13',['query_unfinished',['../structx1_1_1xlt__order__query__param__t.html#a7270b98fa5ea18abdc93f72d3be1bfb9',1,'x1::xlt_order_query_param_t']]],
+  ['quick_14',['QUICK',['../namespacex1.html#afbc7caae69579bbf51fbbbb855871544a7c77dcebcec67792afc15f80522fd945',1,'x1']]],
+  ['quoteapi_15',['QuoteApi',['../classx1_1_1QuoteApi.html',1,'x1']]],
+  ['quotesecuritytype_16',['QuoteSecurityType',['../namespacex1.html#aed4313c0a02020776e905d1a311729dd',1,'x1']]],
+  ['quotespi_17',['QuoteSpi',['../classx1_1_1QuoteSpi.html',1,'x1']]]
+];

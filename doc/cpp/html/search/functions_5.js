@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['on_5fassets_0',['on_assets',['../classx1_1_1TradeSpi.html#a8ba8e247cf65122157609485712540ee',1,'x1::TradeSpi']]],
+  ['on_5fcancel_5fresponse_1',['on_cancel_response',['../classx1_1_1TradeSpi.html#a10fd05caf5ceed2acc5429f77127dbf8',1,'x1::TradeSpi']]],
+  ['on_5fdisconnect_2',['on_disconnect',['../classx1_1_1TradeSpi.html#a6e8b8061fdb4b8a2a7fca32564331057',1,'x1::TradeSpi']]],
+  ['on_5flogin_3',['on_login',['../classx1_1_1QuoteSpi.html#a5cfec8c9e49c2904edb35ac56fbaf70f',1,'x1::QuoteSpi::on_login()'],['../classx1_1_1TradeSpi.html#adddda0be5230a82c239c053446419f22',1,'x1::TradeSpi::on_login()']]],
+  ['on_5fmarket_5fdata_4',['on_market_data',['../classx1_1_1QuoteSpi.html#acd88b7ae7c71e3afa5972e3957d7ecf4',1,'x1::QuoteSpi']]],
+  ['on_5forder_5ferror_5fresponse_5',['on_order_error_response',['../classx1_1_1TradeSpi.html#a40c2f17dc3ffadbb9e823b6c163b5f3f',1,'x1::TradeSpi']]],
+  ['on_5forder_5fresponse_6',['on_order_response',['../classx1_1_1TradeSpi.html#adf5f210fcd3502b5411323bea32b87c2',1,'x1::TradeSpi']]],
+  ['on_5forder_5fstatus_5fnotice_7',['on_order_status_notice',['../classx1_1_1TradeSpi.html#a685ea9bd6ce970beb7df755af4cd1787',1,'x1::TradeSpi']]],
+  ['on_5fpositions_8',['on_positions',['../classx1_1_1TradeSpi.html#a8235457ab1844fa906af2487120cfc62',1,'x1::TradeSpi']]],
+  ['on_5fquery_5fassets_9',['on_query_assets',['../classx1_1_1TradeSpi.html#a5635dc18da76ee6717c9d95568de64c6',1,'x1::TradeSpi']]],
+  ['on_5fquery_5forders_10',['on_query_orders',['../classx1_1_1TradeSpi.html#a3d50aa74202f5341216bac8eb3707036',1,'x1::TradeSpi']]],
+  ['on_5fquery_5fpositions_11',['on_query_positions',['../classx1_1_1TradeSpi.html#ab75ef66a37e825ccf182929dded03d6e',1,'x1::TradeSpi']]],
+  ['on_5fquery_5fstatic_5fquote_5ffull_5finfo_12',['on_query_static_quote_full_info',['../classx1_1_1QuoteSpi.html#a95d7ce4c1dbf92474c3a466dcc35048e',1,'x1::QuoteSpi']]],
+  ['on_5fraw_5freport_13',['on_raw_report',['../classx1_1_1TradeSpi.html#aecd8168f5b9920676f17d77cf6bf0b96',1,'x1::TradeSpi']]],
+  ['on_5frequest_5ftimeout_14',['on_request_timeout',['../classx1_1_1QuoteSpi.html#aaf0911269e5814ddff34cdc8c29d3c77',1,'x1::QuoteSpi::on_request_timeout()'],['../classx1_1_1TradeSpi.html#a1cca4319c11ddb365ae7eb0ae1525f3d',1,'x1::TradeSpi::on_request_timeout()']]],
+  ['on_5ftick_5fby_5ftick_15',['on_tick_by_tick',['../classx1_1_1QuoteSpi.html#a5643af22ce69ed484734d4c57c482043',1,'x1::QuoteSpi']]],
+  ['on_5ftrade_5freport_16',['on_trade_report',['../classx1_1_1TradeSpi.html#a33841401b6607b870ce12edc736abccb',1,'x1::TradeSpi']]]
+];

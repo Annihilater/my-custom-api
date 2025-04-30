@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['on_5fassets_0',['on_assets',['../classpy__xlight__trade__api_1_1TradeSpi.html#a53082ae623dfa54cc75b53302741080a',1,'py_xlight_trade_api::TradeSpi']]],
+  ['on_5fcancel_5fresponse_1',['on_cancel_response',['../classpy__xlight__trade__api_1_1TradeSpi.html#a0a3d3d4c6f1b72657595c664397d2ba6',1,'py_xlight_trade_api::TradeSpi']]],
+  ['on_5fdisconnect_2',['on_disconnect',['../classpy__xlight__trade__api_1_1TradeSpi.html#a8fa57ad204d96c8b0ff2ffeb63fb97d2',1,'py_xlight_trade_api::TradeSpi']]],
+  ['on_5flogin_3',['on_login',['../classpy__xlight__quote__api_1_1QuoteSpi.html#a1f3f201bec9785cb432e12e07c42bd9e',1,'py_xlight_quote_api.QuoteSpi.on_login()'],['../classpy__xlight__trade__api_1_1TradeSpi.html#a84dab7fff9e1021bd32f409f9e2d6169',1,'py_xlight_trade_api.TradeSpi.on_login()']]],
+  ['on_5fmarket_5fdata_4',['on_market_data',['../classpy__xlight__quote__api_1_1QuoteSpi.html#a0cba5e1fe9e7b68f9be49f701009ec92',1,'py_xlight_quote_api::QuoteSpi']]],
+  ['on_5forder_5ferror_5fresponse_5',['on_order_error_response',['../classpy__xlight__trade__api_1_1TradeSpi.html#a3702a3711744255d4317a0ef120a43cd',1,'py_xlight_trade_api::TradeSpi']]],
+  ['on_5forder_5fresponse_6',['on_order_response',['../classpy__xlight__trade__api_1_1TradeSpi.html#a8a08bd58c65324648ba5066e4e6bc2b2',1,'py_xlight_trade_api::TradeSpi']]],
+  ['on_5forder_5fstatus_5fnotice_7',['on_order_status_notice',['../classpy__xlight__trade__api_1_1TradeSpi.html#aef6a91681dd6123ab4907cd37ed99a0a',1,'py_xlight_trade_api::TradeSpi']]],
+  ['on_5fpositions_8',['on_positions',['../classpy__xlight__trade__api_1_1TradeSpi.html#a5b0109d983f2f413fbb01e976d793ef9',1,'py_xlight_trade_api::TradeSpi']]],
+  ['on_5fquery_5fassets_9',['on_query_assets',['../classpy__xlight__trade__api_1_1TradeSpi.html#aac1ff4e296cd26837186fff42cb85e20',1,'py_xlight_trade_api::TradeSpi']]],
+  ['on_5fquery_5forders_10',['on_query_orders',['../classpy__xlight__trade__api_1_1TradeSpi.html#a83fd01c061553af48c879ff35ff94b33',1,'py_xlight_trade_api::TradeSpi']]],
+  ['on_5fquery_5fpositions_11',['on_query_positions',['../classpy__xlight__trade__api_1_1TradeSpi.html#a9b8627514ed444cf3c9ce5352ea80bd7',1,'py_xlight_trade_api::TradeSpi']]],
+  ['on_5fquery_5fstatic_5fquote_5ffull_5finfo_12',['on_query_static_quote_full_info',['../classpy__xlight__quote__api_1_1QuoteSpi.html#ab32efce5fc1a81bf6288ca70b65a7877',1,'py_xlight_quote_api::QuoteSpi']]],
+  ['on_5fraw_5freport_13',['on_raw_report',['../classpy__xlight__trade__api_1_1TradeSpi.html#a239a3578a91b3246c19f23c5a255ddfa',1,'py_xlight_trade_api::TradeSpi']]],
+  ['on_5frequest_5ftimeout_14',['on_request_timeout',['../classpy__xlight__quote__api_1_1QuoteSpi.html#a45a80e24a6d0510f77370abf2429c331',1,'py_xlight_quote_api.QuoteSpi.on_request_timeout()'],['../classpy__xlight__trade__api_1_1TradeSpi.html#ad1c8f918bcab1e68570df5292dcbea9b',1,'py_xlight_trade_api.TradeSpi.on_request_timeout()']]],
+  ['on_5ftick_5fby_5ftick_15',['on_tick_by_tick',['../classpy__xlight__quote__api_1_1QuoteSpi.html#a5460fe6c9b688f602f50b807c853f68a',1,'py_xlight_quote_api::QuoteSpi']]],
+  ['on_5ftrade_5freport_16',['on_trade_report',['../classpy__xlight__trade__api_1_1TradeSpi.html#a3c3f8e83d8fa1ddb1e67b0f651413e1c',1,'py_xlight_trade_api::TradeSpi']]]
+];

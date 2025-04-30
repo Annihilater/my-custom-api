@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['xid_0',['xid',['../structx1_1_1xlt__order__query__param__t.html#a91376487053431e3fddf3c326ff76361',1,'x1::xlt_order_query_param_t::xid()'],['../structx1_1_1xlt__order__status__notice__t.html#a2c2f61f06b48fb21f2720b602a0a6bab',1,'x1::xlt_order_status_notice_t::xid()'],['../structx1_1_1xlt__order__response__t.html#a11628e2ec8a0af78bef770bb9ddfd7e0',1,'x1::xlt_order_response_t::xid()'],['../structx1_1_1xlt__cancel__response__t.html#acf93218be8fd5e1dedab5febbcb4e3de',1,'x1::xlt_cancel_response_t::xid()'],['../structx1_1_1xlt__trade__report__t.html#a75d91cfc0322fa931c5134b5a673f97c',1,'x1::xlt_trade_report_t::xid()'],['../structx1_1_1xlt__order__error__response__t.html#adda144211e10b107de3df8e5d30977aa',1,'x1::xlt_order_error_response_t::xid()'],['../structx1_1_1xlt__order__info__t.html#a732fd3bea30853490fb79064f32f3f50',1,'x1::xlt_order_info_t::xid()']]]
+];

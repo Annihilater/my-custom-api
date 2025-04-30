@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['ma_5fask_5fprice_0',['ma_ask_price',['../structx1_1_1xlt__market__data__bond__ex__data__t.html#a3304f8ca964e4b55da7bb847fba88096',1,'x1::xlt_market_data_bond_ex_data_t::ma_ask_price()'],['../structx1_1_1xlt__market__data__stock__ex__data__t.html#a58f6d8c9c3fb739e68739179d0a82cb1',1,'x1::xlt_market_data_stock_ex_data_t::ma_ask_price()']]],
+  ['ma_5fbid_5fprice_1',['ma_bid_price',['../structx1_1_1xlt__market__data__stock__ex__data__t.html#aeb65a55bd856f57f4790acfbf2e70cc5',1,'x1::xlt_market_data_stock_ex_data_t::ma_bid_price()'],['../structx1_1_1xlt__market__data__bond__ex__data__t.html#a01874e508445e3cbb3a28a4d656f21bc',1,'x1::xlt_market_data_bond_ex_data_t::ma_bid_price()']]],
+  ['ma_5fbond_5fask_5fprice_2',['ma_bond_ask_price',['../structx1_1_1xlt__market__data__stock__ex__data__t.html#af3fe9eb0b291d202f8e126f52efd2e67',1,'x1::xlt_market_data_stock_ex_data_t::ma_bond_ask_price()'],['../structx1_1_1xlt__market__data__bond__ex__data__t.html#a9b28f418b8d23a132955dd078d92136e',1,'x1::xlt_market_data_bond_ex_data_t::ma_bond_ask_price()']]],
+  ['ma_5fbond_5fbid_5fprice_3',['ma_bond_bid_price',['../structx1_1_1xlt__market__data__stock__ex__data__t.html#adc32e6f78c0eb0b31dc1529235f0fc65',1,'x1::xlt_market_data_stock_ex_data_t::ma_bond_bid_price()'],['../structx1_1_1xlt__market__data__bond__ex__data__t.html#a0faa3bc9b243f8d86c5b262892f76b21',1,'x1::xlt_market_data_bond_ex_data_t::ma_bond_bid_price()']]],
+  ['ma_5fbond_5fprice_4',['ma_bond_price',['../structx1_1_1xlt__market__data__bond__ex__data__t.html#a20f214800d9ecb67f06b464070456a9b',1,'x1::xlt_market_data_bond_ex_data_t']]],
+  ['mac_5faddr_5',['mac_addr',['../structx1_1_1xlt__user__terminal__info__t.html#a9973a23d829516a1a6d56178979c6c4c',1,'x1::xlt_user_terminal_info_t']]],
+  ['macos_5fsno_6',['macos_sno',['../structx1_1_1xlt__user__terminal__info__t.html#a6d3bceed0544d6709cfc20130f46178b',1,'x1::xlt_user_terminal_info_t']]],
+  ['market_5fask_5fqty_5flower_5flimit_7',['market_ask_qty_lower_limit',['../structx1_1_1xlt__static__quote__full__info__t.html#ae2c5013d30a507e146215bb80b61f2a5',1,'x1::xlt_static_quote_full_info_t']]],
+  ['market_5fask_5fqty_5funit_8',['market_ask_qty_unit',['../structx1_1_1xlt__static__quote__full__info__t.html#af0165ee45b489d104f5bd083aaec6556',1,'x1::xlt_static_quote_full_info_t']]],
+  ['market_5fask_5fqty_5fupper_5flimit_9',['market_ask_qty_upper_limit',['../structx1_1_1xlt__static__quote__full__info__t.html#a0f27ef217db73ae21ae34e1a8a292cad',1,'x1::xlt_static_quote_full_info_t']]],
+  ['market_5fbid_5fqty_5flower_5flimit_10',['market_bid_qty_lower_limit',['../structx1_1_1xlt__static__quote__full__info__t.html#ace5db73a3b2dfd026647648993093e1a',1,'x1::xlt_static_quote_full_info_t']]],
+  ['market_5fbid_5fqty_5funit_11',['market_bid_qty_unit',['../structx1_1_1xlt__static__quote__full__info__t.html#a67f1ea61c2a6621168eb698d591e6cc0',1,'x1::xlt_static_quote_full_info_t']]],
+  ['market_5fbid_5fqty_5fupper_5flimit_12',['market_bid_qty_upper_limit',['../structx1_1_1xlt__static__quote__full__info__t.html#a2c6bb0a9994f46a418e307e80153052e',1,'x1::xlt_static_quote_full_info_t']]],
+  ['match_5flastpx_13',['match_lastpx',['../structx1_1_1xlt__market__data__bond__ex__data__t.html#aae6ad29472abf192bad9f9b5c1b67e75',1,'x1::xlt_market_data_bond_ex_data_t']]],
+  ['match_5fqty_14',['match_qty',['../structx1_1_1xlt__market__data__bond__ex__data__t.html#a4647e19e127a3495b60a58aec765f4f9',1,'x1::xlt_market_data_bond_ex_data_t']]],
+  ['match_5fturnover_15',['match_turnover',['../structx1_1_1xlt__market__data__bond__ex__data__t.html#a9435f9f90de86cd5f8f29dc97af4f7d1',1,'x1::xlt_market_data_bond_ex_data_t']]],
+  ['mem_5fpool_5fsize_16',['mem_pool_size',['../structx1_1_1xlt__quote__config__t.html#ac20709c8b2e2b8e77ed10f47927e863f',1,'x1::xlt_quote_config_t::mem_pool_size()'],['../structx1_1_1xlt__trade__config__t.html#aa075b5fdd364c100b443079591704bf1',1,'x1::xlt_trade_config_t::mem_pool_size()']]],
+  ['money_17',['money',['../structx1_1_1xlt__tick__by__tick__trade__t.html#ab3079a93bd75be4fb6bb87d3c0ea799d',1,'x1::xlt_tick_by_tick_trade_t']]]
+];
